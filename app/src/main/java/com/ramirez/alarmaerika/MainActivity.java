@@ -50,10 +50,8 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         boton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
                 //implementacion del metodo
                 alarm(mensaje.getText().toString(),Phora,Pmin);
-               // System.exit(0);
             }
         });
     }
