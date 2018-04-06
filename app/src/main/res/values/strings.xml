@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">Alarma</string>
+    <string name="app_name">Programar Alarma</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="minutos">Minutos:</string>
+    <string name="hora">Hora:</string>
 
     <string-array name="horas">
         <item>00</item>

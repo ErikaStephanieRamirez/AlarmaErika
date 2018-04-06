@@ -26,7 +26,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="Hora:"
+            android:text="@string/hora"
             android:textSize="20sp" />
 
 
@@ -51,7 +51,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="Minutos:"
+            android:text="@string/minutos"
             android:textSize="20sp" />
 
         <Spinner
@@ -77,7 +77,7 @@
         android:id="@+id/acept"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ACEPTAR"
+        android:text="@string/aceptar"
         android:background="#47c933"
         android:layout_gravity="center"/>
 
